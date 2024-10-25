@@ -1,0 +1,1 @@
+export const pinkishWhite = "rgb(251, 234, 235)"
